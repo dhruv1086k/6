@@ -212,7 +212,7 @@ animation: animate 3s infinite alternate;
   color: #891652;
 }
 .social-button--type::after {
-  background: #891652;
+  color: #891652;
 }
 /* search */
 .search{
