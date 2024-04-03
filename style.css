@@ -208,10 +208,10 @@ animation: animate 3s infinite alternate;
 .social-button--drive::after {
   background: #08851b;
 }
-.social-button--type {
+.social-button--apnaCollege {
   color: #891652;
 }
-.social-button--type::after {
+.social-button--apnaCollege::after {
   background: #891652;
 }
 /* search */
