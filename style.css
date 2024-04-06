@@ -214,6 +214,12 @@ animation: animate 3s infinite alternate;
 .social-button--apnaCollege::after {
   background: #891652;
 }
+.social-button--freelancer {
+  color: #135D66;
+}
+.social-button--freelancer::after {
+  background: #135D66;
+}
 /* search */
 .search{
   width: 100%;
