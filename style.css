@@ -220,6 +220,24 @@ animation: animate 3s infinite alternate;
 .social-button--freelancer::after {
   background: #135D66;
 }
+.social-button--tailwind {
+  color: #FC4100;
+}
+.social-button--tailwind::after {
+  background: #FC4100;
+}
+.social-button--googlefonts {
+  color: #FF204E;
+}
+.social-button--googlefonts::after {
+  background: #FF204E;
+}
+.social-button--fontawesome {
+  color: #41C9E2;
+}
+.social-button--fontawesome::after {
+  background: #41C9E2;
+}
 /* search */
 .search{
   width: 100%;
