@@ -58,7 +58,7 @@ body{
 .right img {
   width: 8%;
   height: auto;
-  border-radius: 7px;
+  border-radius: 50%;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .right .box p {
@@ -239,6 +239,12 @@ animation: animate 3s infinite alternate;
 }
 .social-button--fontawesome::after {
   background: #41C9E2;
+}
+.social-button--monkeytype {
+  color: #C80036;
+}
+.social-button--monkeytype::after {
+  background: #C80036;
 }
 /* search */
 .search{
