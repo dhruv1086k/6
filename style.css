@@ -184,10 +184,10 @@ animation: animate 3s infinite alternate;
 .social-button--github::after {
   background: #6e5494;
 }
-.social-button--codepen {
+.social-button--twitter {
   color: #212121;
 }
-.social-button--codepen::after {
+.social-button--twitter::after {
   background: #212121;
 }
 
@@ -216,11 +216,11 @@ animation: animate 3s infinite alternate;
 .social-button--apnaCollege::after {
   background: #891652;
 }
-.social-button--freelancer {
-  color: #135D66;
+.social-button--fiverr {
+  color: #1DBF73;
 }
-.social-button--freelancer::after {
-  background: #135D66;
+.social-button--fiverr::after {
+  background: #1DBF73;
 }
 .social-button--tailwind {
   color: #FC4100;
