@@ -407,11 +407,11 @@ body {
   z-index: 99;
 }
 
-.card-inner p {
+.card-right p {
   font-size: 0.8rem;
   margin-top: 1.5%;
-  color: #2f2f2f;
-  font-weight: 300;
+  color: #000000;
+  font-weight: 500;
   z-index: 99;
 }
 
@@ -441,11 +441,11 @@ body {
 }
 
 .card-inner-2 {
-  color: #ffd23f;
+  color: #800000;
 }
 
 .card-inner-2::before {
-  background-color: #ffd23f;
+  background-color: #800000;
   z-index: 1;
   transition: all 0.4s;
 }
