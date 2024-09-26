@@ -241,14 +241,6 @@ body {
   background: #212121;
 }
 
-.social-button--instagram {
-  color: #e4405f;
-}
-
-.social-button--instagram::after {
-  background: #e4405f;
-}
-
 .social-button--mail {
   color: #f2a60c;
 }
@@ -281,14 +273,6 @@ body {
   background: #891652;
 }
 
-.social-button--fiverr {
-  color: #1dbf73;
-}
-
-.social-button--fiverr::after {
-  background: #1dbf73;
-}
-
 .social-button--tailwind {
   color: #fc4100;
 }
@@ -305,28 +289,20 @@ body {
   background: #ff204e;
 }
 
-.social-button--fontawesome {
-  color: #41c9e2;
-}
-
-.social-button--fontawesome::after {
-  background: #41c9e2;
-}
-
-.social-button--monkeytype {
-  color: #c80036;
-}
-
-.social-button--monkeytype::after {
-  background: #c80036;
-}
-
 .social-button--readme {
   color: #1a5319;
 }
 
 .social-button--readme::after {
   background: #1a5319;
+}
+
+.social-button--notion {
+  color: #080808;
+}
+
+.social-button--notion::after {
+  background: #080808;
 }
 
 .cards {
